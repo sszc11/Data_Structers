@@ -18,9 +18,9 @@ int main(){
     std::vector<int> a = {1,2,3,4,5};
     int value=5;
     fill(a,1,5,value);
-    for (int i = 0; i < 5; ++i){
-        std::cout << a[i] << std::endl;
-    }
+   for (auto &i : a){
+       std::cout << i << std::endl;
+   }
     return 0;
 }
 
