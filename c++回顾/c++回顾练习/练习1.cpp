@@ -9,8 +9,7 @@ void swap(T &a,T &b)noexcept{
     a=b;
     b=temp;
 }
-int main()
-{
+int main(){
     double a=1,b=2;
     std::cout<<std::format("a={} b={}",a,b)<<std::endl;
     swap(a,b);

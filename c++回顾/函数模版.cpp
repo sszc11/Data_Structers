@@ -3,12 +3,10 @@
 //
 #include<iostream>
 template <class T>
-T add_abd(T a, T b,T c)
-{
+T add_abd(T a, T b,T c){
     return a+b+c;
 }
-int main()
-{
+int main(){
     int result=add_abd(1,2,3);
     std::cout<<result<<std::endl;
     double result1=add_abd(1.3,2.3,3.3);
