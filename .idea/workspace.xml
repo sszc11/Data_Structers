@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/CodeEditing/TypingAssist/Cpp/CloseBlockComment/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="3" type="long" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="Cpp.Editor" type="string" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Data_Structers" targetName="1.2.1_exec" />
+      <config projectName="Data_Structers" targetName="1.2.4_exec" />
+      <config projectName="Data_Structers" targetName="Data_Structers" />
+      <config projectName="Data_Structers" targetName="1.2.3_exec" />
+      <config projectName="Data_Structers" targetName="1.2.6.1_exec" />
+      <config projectName="Data_Structers" targetName="1.2.6.3_exec" />
+      <config projectName="Data_Structers" targetName="1.2.6.2_exec" />
+      <config projectName="Data_Structers" targetName="1.2.2_exec" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="899213ca-8914-4dfa-8bd4-644ddef268e7" name="更改" comment="8月20日练习">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Data_Structers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="4" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sszc11"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sszc11/Data_Structers",
+    "accountId": "4466612b-f42c-46e9-aab0-539bfaa679df"
+  }
+}]]></component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="njN70PSs" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.7540737732796066" />
+      <entry key="MS500" value="3.3399527159479963" />
+      <entry key="S2" value="5.0741121422856885" />
+      <entry key="S5" value="7.095658181790447" />
+      <entry key="S10" value="9.881669614028361" />
+      <entry key="S30" value="14.593952943593978" />
+      <entry key="S60" value="19.60169615338128" />
+      <entry key="M2" value="30.622540158229356" />
+      <entry key="M5" value="49.708638560334414" />
+      <entry key="M10" value="60.91433643500744" />
+      <entry key="M15" value="65.88687184973422" />
+      <entry key="M30" value="76.74712358306603" />
+      <entry key="H1" value="96.79989487995277" />
+      <entry key="H2" value="120.61181195325537" />
+      <entry key="H4" value="139.62764404942305" />
+      <entry key="D1" value="160.98021272529087" />
+      <entry key="W1" value="165.26585255832885" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="6.33786073073558E-216" />
+      <entry key="S30" value="2.7704547419483883E-72" />
+      <entry key="S60" value="2.7364033913460686E-36" />
+      <entry key="M2" value="2.9539617026324618E-18" />
+      <entry key="M5" value="2.1269925416800937E-7" />
+      <entry key="M10" value="9.121333966677984E-4" />
+      <entry key="M15" value="0.014889390943868088" />
+      <entry key="M30" value="0.24369778675976242" />
+      <entry key="H1" value="0.9869536473461178" />
+      <entry key="H2" value="1.9867262069179816" />
+      <entry key="H4" value="2.8189595476733267" />
+      <entry key="D1" value="3.773375706432602" />
+      <entry key="W1" value="3.9668099448771934" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.6756688514043725" />
+      <entry key="MS500" value="3.187288630469815" />
+      <entry key="S2" value="4.579041400059268" />
+      <entry key="S5" value="6.686220311694809" />
+      <entry key="S10" value="9.613553842554023" />
+      <entry key="S30" value="14.485512161787469" />
+      <entry key="S60" value="19.543992919156494" />
+      <entry key="M2" value="30.591935996736474" />
+      <entry key="M5" value="49.695506996764436" />
+      <entry key="M10" value="60.90838969649022" />
+      <entry key="M15" value="65.896670317706" />
+      <entry key="M30" value="76.98512441400902" />
+      <entry key="H1" value="97.77933073993533" />
+      <entry key="H2" value="122.59175948470683" />
+      <entry key="H4" value="142.44198016787374" />
+      <entry key="D1" value="164.7525845423139" />
+      <entry key="W1" value="169.2325123716795" />
+    </decayedShown>
+  </component>
+  <component name="Non-shared Debug Profiles">
+    <debug-profiles>
+      <debug-profile>
+        <option name="id" value="b2e03b11-0537-4c0a-90b3-9b40682f9731" />
+        <option name="type" value="gdb" />
+        <option name="name" value="/opt/homebrew/bin/gdb" />
+        <settings>
+          <option name="executable" value="/opt/homebrew/bin/gdb" />
+        </settings>
+      </debug-profile>
+    </debug-profiles>
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2026" />
+    <option name="minorVersion" value="2.1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IBAbuZywcIT0BxJgi3RsR8tqxR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake 应用程序.1.2.1_exec.executor": "Run",
+    "CMake 应用程序.1.2.2_exec.executor": "Run",
+    "CMake 应用程序.1.2.3_exec.executor": "Run",
+    "CMake 应用程序.1.2.4_exec.executor": "Run",
+    "CMake 应用程序.1.2.6.1_exec.executor": "Run",
+    "CMake 应用程序.1.2.6.2_exec.executor": "Run",
+    "CidrDebugProfileConversion": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "/Users/asd/CLionProjects/Data_Structers",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor.code.editing"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="CMake 应用程序.1.2.1_exec">
+    <configuration default="true" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeDoctestTestRunConfigurationType" factoryName="doctest Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.2.1_exec" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Data_Structers" TARGET_NAME="1.2.1_exec" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Data_Structers" RUN_TARGET_NAME="1.2.1_exec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.2.2_exec" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Data_Structers" TARGET_NAME="1.2.2_exec" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Data_Structers" RUN_TARGET_NAME="1.2.2_exec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.2.3_exec" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Data_Structers" TARGET_NAME="1.2.3_exec" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Data_Structers" RUN_TARGET_NAME="1.2.3_exec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.2.4_exec" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Data_Structers" TARGET_NAME="1.2.4_exec" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Data_Structers" RUN_TARGET_NAME="1.2.4_exec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.2.6.1_exec" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Data_Structers" TARGET_NAME="1.2.6.1_exec" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Data_Structers" RUN_TARGET_NAME="1.2.6.1_exec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.2.6.2_exec" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Data_Structers" TARGET_NAME="1.2.6.2_exec" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Data_Structers" RUN_TARGET_NAME="1.2.6.2_exec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.2.6.3_exec" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Data_Structers" TARGET_NAME="1.2.6.3_exec" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Data_Structers" RUN_TARGET_NAME="1.2.6.3_exec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Data_Structers" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Data_Structers" TARGET_NAME="Data_Structers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Data_Structers" RUN_TARGET_NAME="Data_Structers">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.1.2.1_exec" />
+      <item itemvalue="CMake 应用程序.1.2.2_exec" />
+      <item itemvalue="CMake 应用程序.1.2.3_exec" />
+      <item itemvalue="CMake 应用程序.1.2.4_exec" />
+      <item itemvalue="CMake 应用程序.1.2.6.1_exec" />
+      <item itemvalue="CMake 应用程序.1.2.6.2_exec" />
+      <item itemvalue="CMake 应用程序.1.2.6.3_exec" />
+      <item itemvalue="CMake 应用程序.Data_Structers" />
+    </list>
+  </component>
+  <component name="SelectedDebugProfileService">{
+  &quot;profileIdByStamp&quot;: [
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;CMake 应用程序.1.2.1_exec&quot;,
+        &quot;cmake&quot;: &quot;CMakeBuildProfile:Debug&quot;
+      },
+      &quot;second&quot;: &quot;b2e03b11-0537-4c0a-90b3-9b40682f9731&quot;
+    },
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;CMake 应用程序.1.2.4_exec&quot;,
+        &quot;cmake&quot;: &quot;CMakeBuildProfile:Debug&quot;
+      },
+      &quot;second&quot;: &quot;b2e03b11-0537-4c0a-90b3-9b40682f9731&quot;
+    },
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;CMake 应用程序.1.2.6.1_exec&quot;,
+        &quot;cmake&quot;: &quot;CMakeBuildProfile:Debug&quot;
+      },
+      &quot;second&quot;: &quot;b2e03b11-0537-4c0a-90b3-9b40682f9731&quot;
+    },
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;CMake 应用程序.1.2.2_exec&quot;,
+        &quot;cmake&quot;: &quot;CMakeBuildProfile:Debug&quot;
+      },
+      &quot;second&quot;: &quot;b2e03b11-0537-4c0a-90b3-9b40682f9731&quot;
+    },
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;CMake 应用程序.Data_Structers&quot;,
+        &quot;cmake&quot;: &quot;CMakeBuildProfile:Debug&quot;
+      },
+      &quot;second&quot;: &quot;b2e03b11-0537-4c0a-90b3-9b40682f9731&quot;
+    },
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;CMake 应用程序.1.2.3_exec&quot;,
+        &quot;cmake&quot;: &quot;CMakeBuildProfile:Debug&quot;
+      },
+      &quot;second&quot;: &quot;b2e03b11-0537-4c0a-90b3-9b40682f9731&quot;
+    },
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;CMake 应用程序.1.2.6.2_exec&quot;,
+        &quot;cmake&quot;: &quot;CMakeBuildProfile:Debug&quot;
+      },
+      &quot;second&quot;: &quot;b2e03b11-0537-4c0a-90b3-9b40682f9731&quot;
+    }
+  ],
+  &quot;modificationCount&quot;: 38
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="899213ca-8914-4dfa-8bd4-644ddef268e7" name="更改" comment="" />
+      <created>1787227662661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787227662661</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+    <isAutomaticBootstrapAfterUpdate value="false" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="8月20日练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="8月20日练习" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="Data_Structers" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file:///Users/asd/CLionProjects/Data_Structers}" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
